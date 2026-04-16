@@ -1,5 +1,5 @@
 # D2C-Coverage-Analysis
-This repository contains the simulation code for the coverage analysis of Direct-to-Cell (D2C) LEO satellite downlink under terrestrial co-channel interference, developed as part of ENEL 619 06 final course project at the University of Calgary
+This repository contains the simulation code for the coverage analysis of Direct-to-Cell (D2C) LEO satellite downlink under terrestrial co-channel interference, developed as part of the Advanced Technologies for Non-Terrestrial Networks final course project at the University of Calgary
 
 ## Contents
 - d2c_coverage.ipynb — Jupyter notebook containing the full simulation code and plots
